@@ -1,0 +1,2 @@
+workspaces/example-project/secrets/*
+!workspaces/example-project/secrets/.gitkeep
